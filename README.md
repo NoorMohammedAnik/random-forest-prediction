@@ -1,6 +1,4 @@
-Absolutely! Here’s a well-structured **GitHub README.md** for your `Random Forest Regression` example in Python. You can copy this directly into a `README.md` file in your GitHub repository.
 
----
 
 ## 📊 Random Forest Regression Example
 
@@ -109,6 +107,3 @@ print(f"Predicted price (Random Forest): Tk {predicted_price[0]:,.2f}")
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-If you'd like, I can also generate a `requirements.txt` and a `.gitignore` for Python projects. Just let me know! 🚀
